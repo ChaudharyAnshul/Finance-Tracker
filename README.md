@@ -28,22 +28,22 @@ MERN Stack
 ## UI Screenshots
 
 ### Auth Page
-![Auth Page](images\auth-page.png)
+![Auth Page](images/auth-page.png)
 
 ### Sign Up
-![Sign Up](images\sign-up.png)
+![Sign Up](images/sign-up.png)
 
 ### Sign In
-![Sign In](images\sign-in.png)
+![Sign In](images/sign-in.png)
 
 ### Add Expense
-![Add Expense](images\add-record.png)
+![Add Expense](images/add-record.png)
 
 ### Update/delete Expense
-![Update/delete Expense](images\update-delete.png)
+![Update/delete Expense](images/update-delete.png)
 
 ### Mongo DB
-![Mongo DB](images\mongo-db.png)
+![Mongo DB](images/mongo-db.png)
 
 ## Getting Started
 
