@@ -2,6 +2,7 @@ import express, { Express }  from "express";
 import mongoose from "mongoose";
 import * as dotenv from 'dotenv';
 import financialRecordRouter from "./routes/financial-records";
+import cors from "cors";
 
 dotenv.config({ path: '.env.local' });
 
@@ -10,6 +11,7 @@ const port = process.env.PORT || 3001;
 const dbPass = process.env.MONGO_URI || "";
 
 app.use(express.json());
+app.use(cors());
 
 const mongoURI: string = dbPass;
 
